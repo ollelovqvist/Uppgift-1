@@ -1,0 +1,6 @@
+img {
+  width: 400px;
+  height: 300px;
+  object-fit: contain;
+  border: 2px solid red;
+}
